@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RedditRewind</title>
+    <link>https://TopG187.github.io/cdn-bd573843e682/v/1ca5ab87</link>
+    <language>en-us</language>
+    <description></description>
+    <itunes:author>RedditRewind</itunes:author>
+    <itunes:summary></itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <atom:link href="https://TopG187.github.io/cdn-bd573843e682/v/1ca5ab87/feed.xml" rel="self" type="application/rss+xml"/>
+    
+  </channel>
+</rss>
