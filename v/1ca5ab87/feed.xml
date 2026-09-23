@@ -161,16 +161,5 @@ Priya had started Petal &amp; Crumb about two years earlier, after she left a co
       <itunes:duration></itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
-
-    <item>
-      <title>RedditRewind — Welcome</title>
-      <description>RedditRewind — full stories and episodes.</description>
-      <guid isPermaLink="false">bootstrap-0ab2997d2f3d70c1</guid>
-      <pubDate>Mon, 21 Sep 2026 19:55:10 GMT</pubDate>
-      <enclosure url="https://topg187.github.io/cdn-bd573843e682/v/1ca5ab87/episodes/bootstrap-claim.mp3" type="audio/mpeg" length="8339"/>
-      <itunes:image href="https://topg187.github.io/cdn-bd573843e682/v/1ca5ab87/cover.jpg"/>
-      <itunes:duration>00:00:02</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
   </channel>
 </rss>

@@ -31,16 +31,5 @@
     "imageFile": "episodes/1790188301427_My_sister-in-law_charged_me_60_for_the_family_discount_weddi.jpg",
     "audioBytes": 41952279,
     "duration": ""
-  },
-  {
-    "guid": "bootstrap-0ab2997d2f3d70c1",
-    "title": "RedditRewind — Welcome",
-    "description": "RedditRewind — full stories and episodes.",
-    "pubDate": "2026-09-21T19:55:10.973Z",
-    "audioFile": "episodes/bootstrap-claim.mp3",
-    "audioBytes": 8339,
-    "duration": "00:00:02",
-    "status": "published",
-    "bootstrap": true
   }
 ]
